@@ -1,0 +1,1 @@
+print("hello"+input("whast is your name?")) #nested input and print function
